@@ -24,7 +24,7 @@
   "license": "MIT",
   "homepage": "https://github.com/jtrauntvein/svg-to-ico.git/svg-to-ico#readme",
   "dependencies": {
-    "sharp": "^0.30.7",
+    "sharp": "^0.31.2",
     "to-ico": "^1.1.5"
   },
   "devDependencies": {
